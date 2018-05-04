@@ -1,0 +1,5 @@
+Joachim Holmer
+Freya Holmer
+float attenuation = LIGHT_ATTENUATION(i);
+UNITY_LIGHT_ATTENUATION(attenuation, i, i.posWorld.xyz);
+CustomEditor "ShaderForgeMaterialInspector"
